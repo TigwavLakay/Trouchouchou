@@ -13,6 +13,6 @@ Une déscription de la section communale, de la ville et de la commune.
 Les spécialités, les sites touristiques etc...
 
 * Les qurtiers
-  * descrire
+  * décrire
   * comprendre
 * [Trou Chouchou](http://trouchouchou.org)

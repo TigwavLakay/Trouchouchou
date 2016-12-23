@@ -1,4 +1,4 @@
-# [Trou Chouchou]
+# [Trou Chouchou]()
 ## Site interne de TrouChouChou Lakay
 
 >Trou Chouchou.
@@ -17,9 +17,24 @@ Les spécialités, les sites touristiques etc...
 * Les quartiers
   * décrire
   * comprendre
-  * motiver les habitants de [Trou Chouchou]
+  * motiver les habitants de Trou Chouchou
 
 --------------------------------------------------------
+````php
+class Lakay
+{
+  private $_organName;
+  private $_quartier;
+  private $_president;
+  private $_members;
+  private $_licence;
+  
+  public function __construct()
+  {
+    #code...
+  }
+}
+```
 --------------------------------------------------------
 
 * Nous voulons travailler avec les organisations de la section, sur les plans:

@@ -1,4 +1,4 @@
-# [Trou Chouchou](http://www.trouchouchou.org)
+# [Trou Chouchou]
 ## Site interne de TrouChouChou Lakay
 
 >Trou Chouchou.
@@ -17,7 +17,7 @@ Les spécialités, les sites touristiques etc...
 * Les quartiers
   * décrire
   * comprendre
-  * motiver les habitants de [Trou Chouchou](http://trouchouchou.org)
+  * motiver les habitants de [Trou Chouchou]
 
 --------------------------------------------------------
 --------------------------------------------------------
@@ -29,6 +29,6 @@ Les spécialités, les sites touristiques etc...
 
 Organisation | Quartier | Président | Nombre de membre | licence|
 -------------|----------|-----------|-----------------|---------|
-OPP*          | Pikoré   | Jean      | 250             | ... 
+OPP*          | Picoré   | Jean      | 250             | ... 
 
 **OPP : Organisation des Paysans de Pikoré**

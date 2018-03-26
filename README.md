@@ -9,18 +9,18 @@
 
 Elle contient 12 sections communales, Trou Chouchou est la troisième...
 
-###Quel est le but de ce site ?
+## Quel est le but de ce site ?
 
 Une déscription de la section communale, de la ville et de la commune.
 Les spécialités, les sites touristiques etc...
 
-* Les quartiers
+**Les quartiers**
   * décrire
   * comprendre
   * motiver les habitants de Trou Chouchou
 
 --------------------------------------------------------
-````php
+```php
 class Lakay
 {
   private $_organName;
@@ -35,9 +35,12 @@ class Lakay
   }
 }
 ```
+
+
 --------------------------------------------------------
 
-* Nous voulons travailler avec les organisations de la section, sur les plans:
+### Nous voulons travailler avec les organisations de la section, sur les plans:
+
  * Social
  * Culturel
  * Educatif

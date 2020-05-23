@@ -1,11 +1,13 @@
+<header>
 # [Trou Chouchou]()
 ## Site interne de TrouChouChou Lakay
-
+</header>
+<main>
 >Trou Chouchou.
 
->Troisième section communale de **Petit-goâve**.
+>Troisième section communale de **Petit-Goâve**.
 
->**Petit-goâve**, ville située dans le département l'**Ouest d'HAÏTI**
+>**Petit-Goâve**, ville située dans le département l'Ouest **d'HAÏTI**
 
 Elle contient 12 sections communales, Trou Chouchou est la troisième...
 
@@ -33,6 +35,12 @@ class Lakay
   {
     #code...
   }
+  public function Nanmarc(){
+    #code...
+  }
+  public function Nandal(){
+  #code
+  }
 }
 ```
 
@@ -49,4 +57,5 @@ Organisation | Quartier | Président | Nombre de membre | licence|
 -------------|----------|-----------|-----------------|---------|
 OPP*          | Picoré   | Jean      | 250             | ... 
 
-**OPP : Organisation des Paysans de Pikoré**
+**OPP : Organisation des Paysans de Picoré**
+</main>

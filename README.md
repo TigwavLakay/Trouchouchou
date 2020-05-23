@@ -1,9 +1,8 @@
-<header>
- 
+
 # [Trou Chouchou]()
+
 ## Site interne de TrouChouChou Lakay
-</header>
-<main>
+
 >Trou Chouchou.
 
 >Troisième section communale de **Petit-Goâve**.
@@ -59,4 +58,3 @@ Organisation | Quartier | Président | Nombre de membre | licence|
 OPP*          | Picoré   | Jean      | 250             | ... 
 
 **OPP : Organisation des Paysans de Picoré**
-</main>
